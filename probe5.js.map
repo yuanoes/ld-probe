@@ -1,0 +1,1 @@
+{"version":3,"names":["probeZ","Error"],"sources":["probe5.src.js"],"sourcesContent":["// WB_MARKER_6a3fd79d0851\nfunction probeZ(){ throw new Error(\"wb-probe5\") }\nprobeZ();\n"],"mappings":"AACA,SAASA,SAAU,MAAM,IAAIC,MAAM,YAAa,CAChDD","ignoreList":[]}
