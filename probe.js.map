@@ -1,0 +1,1 @@
+{"version": 3, "file": "probe.js", "sourceRoot": "", "sources": ["probe.src.js"], "sourcesContent": ["// WB_MARKER_6a3fd79d0851\nfunction probeX(){ throw new Error('wb-probe4') }\nprobeX();\n"], "names": ["probeX"], "mappings": "AAAA;AACA;AACA"}
